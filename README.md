@@ -16,6 +16,7 @@ Feynman is an open-source multi-agent shell for academic research:
 | Report | Date | Sources |
 |--------|------|---------|
 | [TTCK Việt Nam 2025–2026](./outputs/vietnam-stock-market-outlook-2025-2026.md) | May 2026 | 27 |
+| [Thị trường việc làm IT Việt Nam 2025–2035](./outputs/vietnam-it-job-market-2025-2035.md) | May 2026 | 36 |
 | [Multi-Agent AI Systems 2024–2025](./outputs/multi-agent-ai-systems-2024-2025.md) | May 2026 | 24 |
 
 ## How these were generated
