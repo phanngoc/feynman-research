@@ -1,0 +1,3 @@
+[submodule "feynman-src"]
+	path = feynman-src
+	url = https://github.com/getcompanion-ai/feynman.git
